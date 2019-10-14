@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#336280</color>
+    <color name="colorPrimaryDark">#336280</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="loginScreenBackground">#3c3f4d</color>
+    <color name="textfieldBackground">#ffffff</color>
+    <color name="alternative">#234459</color>
+</resources>

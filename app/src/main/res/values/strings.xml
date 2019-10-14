@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="button">Login</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="read">Read</string>
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="refresh">Refresh</string>
+</resources>
